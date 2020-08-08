@@ -19,11 +19,11 @@ Projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**
 
 ## 🚀 Tecnologias utilizadas
 
-> - TypeScript
-> - CSS
-> - React
-> - React-Native
-> - SQLite
+> TypeScript <br/>
+> CSS <br/>
+> React <br/>
+> React-Native <br/>
+> SQLite
 
 ---
 
