@@ -3,9 +3,9 @@
 
 ## 📚 Índice 
 
--   [Sobre](#📖-sobre)
--   [Tecnologias utilizadas](#🚀-tecnologias-utilizadas)
--   [Como executar o projeto](#⌨-como-executar-o-projeto)
+-   [Sobre](#-sobre)
+-   [Tecnologias utilizadas](#-tecnologias-utilizadas)
+-   [Como executar o projeto](#-como-executar-o-projeto)
 
 ---
 
